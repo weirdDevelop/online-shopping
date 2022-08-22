@@ -1,0 +1,167 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<!-- START FOOTER -->
+<!-- START SECTION SUBSCRIBE NEWSLETTER -->
+<div class="section bg_default small_pt small_pb">
+    <div class="custom-container">
+        <div class="row align-items-center">
+            <div class="col-md-6">
+                <div class="newsletter_text text_white">
+                    <h3>اشتراک در خبرنامه ما</h3>
+                    <p> برای دریافت به روزرسانی در تبلیغات ، اکنون ثبت نام کنید. </p>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="newsletter_form2 rounded_input">
+                    <form>
+                        <input type="text" required="" class="form-control" placeholder="آدرس ایمیل خود را وارد کنید">
+                        <button type="submit" class="btn btn-dark btn-radius" name="submit" value="Submit">اشتراک</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<footer class="bg_gray">
+    <div class="footer_top small_pt pb_20">
+        <div class="custom-container">
+            <div class="row">
+                <div class="col-lg-4 col-md-12 col-sm-12">
+                    <div class="widget">
+                        <div class="footer_logo">
+                            <a href="#"><img src="assets/images/logo_dark.png" alt="logo"/></a>
+                        </div>
+                        <p class="mb-3">لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ، و با استفاده از طراحان گرافیک است</p>
+                        <ul class="contact_info">
+                            <li>
+                                <i class="ti-location-pin"></i>
+                                <p>ایران , تهران , زعفرانیه , ساختمان هستی</p>
+                            </li>
+                            <li>
+                                <i class="ti-email"></i>
+                                <a href="mailto:info@sitename.com">info@sitename.com</a>
+                            </li>
+                            <li>
+                                <i class="ti-mobile"></i>
+                                <p>021-1234567</p>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6">
+                    <div class="widget">
+                        <h6 class="widget_title">لینک های مفید</h6>
+                        <ul class="widget_links">
+                            <li><a href="#">درباره ما</a></li>
+                            <li><a href="#">سؤالات متداول</a></li>
+                            <li><a href="#">موقعیت</a></li>
+                            <li><a href="#">شرکت ها</a></li>
+                            <li><a href="#">تماس</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-2 col-md-4 col-sm-6">
+                    <div class="widget">
+                        <h6 class="widget_title">حساب کاربری من</h6>
+                        <ul class="widget_links">
+                            <li><a href="#">حساب کاربری</a></li>
+                            <li><a href="#">تخفیف</a></li>
+                            <li><a href="#">بازگشتی</a></li>
+                            <li><a href="#">تاریخچه سفارشات</a></li>
+                            <li><a href="#">رهگیری سفارش</a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-12">
+                    <div class="widget">
+                        <h6 class="widget_title">اینستاگرام</h6>
+                        <ul class="widget_instafeed instafeed_col4">
+                            <li><a href="#"><img src="assets/images/insta_img1.jpg" alt="insta_img"><span class="insta_icon"><i class="ti-instagram"></i></span></a></li>
+                            <li><a href="#"><img src="assets/images/insta_img2.jpg" alt="insta_img"><span class="insta_icon"><i class="ti-instagram"></i></span></a></li>
+                            <li><a href="#"><img src="assets/images/insta_img3.jpg" alt="insta_img"><span class="insta_icon"><i class="ti-instagram"></i></span></a></li>
+                            <li><a href="#"><img src="assets/images/insta_img4.jpg" alt="insta_img"><span class="insta_icon"><i class="ti-instagram"></i></span></a></li>
+                            <li><a href="#"><img src="assets/images/insta_img5.jpg" alt="insta_img"><span class="insta_icon"><i class="ti-instagram"></i></span></a></li>
+                            <li><a href="#"><img src="assets/images/insta_img6.jpg" alt="insta_img"><span class="insta_icon"><i class="ti-instagram"></i></span></a></li>
+                            <li><a href="#"><img src="assets/images/insta_img7.jpg" alt="insta_img"><span class="insta_icon"><i class="ti-instagram"></i></span></a></li>
+                            <li><a href="#"><img src="assets/images/insta_img8.jpg" alt="insta_img"><span class="insta_icon"><i class="ti-instagram"></i></span></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="middle_footer">
+        <div class="custom-container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="shopping_info">
+                        <div class="row justify-content-center">
+                            <div class="col-md-4">
+                                <div class="icon_box icon_box_style2">
+                                    <div class="icon">
+                                        <i class="flaticon-shipped"></i>
+                                    </div>
+                                    <div class="icon_box_content">
+                                        <h5>ارسال رایگان</h5>
+                                        <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="icon_box icon_box_style2">
+                                    <div class="icon">
+                                        <i class="flaticon-money-back"></i>
+                                    </div>
+                                    <div class="icon_box_content">
+                                        <h5>30 روز ضمانت بازگشت</h5>
+                                        <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ</p>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-md-4">
+                                <div class="icon_box icon_box_style2">
+                                    <div class="icon">
+                                        <i class="flaticon-support"></i>
+                                    </div>
+                                    <div class="icon_box_content">
+                                        <h5>پشتیبانی 24 ساعته</h5>
+                                        <p>لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="bottom_footer border-top-tran">
+        <div class="custom-container">
+            <div class="row">
+                <div class="col-lg-4">
+                    <p class="mb-lg-0 text-center">© 1399 کلیه حقوق این سایت متعلق به ... است</p>
+                </div>
+                <div class="col-lg-4 order-lg-first">
+                    <div class="widget mb-lg-0">
+                        <ul class="social_icons text-center text-lg-left">
+                            <li><a href="#" class="sc_facebook"><i class="ion-social-facebook"></i></a></li>
+                            <li><a href="#" class="sc_twitter"><i class="ion-social-twitter"></i></a></li>
+                            <li><a href="#" class="sc_google"><i class="ion-social-googleplus"></i></a></li>
+                            <li><a href="#" class="sc_youtube"><i class="ion-social-youtube-outline"></i></a></li>
+                            <li><a href="#" class="sc_instagram"><i class="ion-social-instagram-outline"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <ul class="footer_payment text-center text-lg-right">
+                        <li><a href="#"><img src="assets/images/visa.png" alt="visa"></a></li>
+                        <li><a href="#"><img src="assets/images/discover.png" alt="discover"></a></li>
+                        <li><a href="#"><img src="assets/images/master_card.png" alt="master_card"></a></li>
+                        <li><a href="#"><img src="assets/images/paypal.png" alt="paypal"></a></li>
+                        <li><a href="#"><img src="assets/images/amarican_express.png" alt="amarican_express"></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- END FOOTER -->
