@@ -1,15 +1,13 @@
 # online-shopping
-An online shop based on java and its powerful ecosystem (spring framework, hibernate, maven).
-In this project most essential for abilities for an online shop are implmented (admin management, user account, cart and etc).
+An online shop based on Java and its powerful ecosystem (Spring framework, Hibernate, Maven). In this project, the most essential abilities for an online shop
+are implemented (admin management, user account, cart, etc.).
 
-This project benefits from art of state technologies which are decribed below:
+This project benefits from state-of-the-art technologies, which are described below:
 
-Spring mvc: a part of spring framework for mvc design pattern implementation.
-Spring security: provides high level of protection like csrf protection, hashed passwords, authentication and authorization.
-Hibernate: a powerful database and sql manager for java.
+Spring MVC: A part of the Spring framework for MVC design pattern implementation.
+Spring Security: Provides a high level of protection, such as CSRF protection, hashed passwords, authentication, and authorization.
+Hibernate: A powerful database and SQL manager for Java.
 Bootstrap: Web pages are completely responsive.
-Maven: A java dependency manager for better development experience.
-
-Other technologies:  
-Jsp, Css, Html, JavaScript, spring webflow, ApachiTomcat, Mysql and etc.
-Also a wide range of javaScript components are used (BootBox, Datatable and etc).
+Maven: A Java dependency manager for a better development experience.
+Other technologies:
+JSP, CSS, HTML, JavaScript, Spring WebFlow, Apache Tomcat, MySQL, etc. Also, a wide range of JavaScript components are used (BootBox, DataTable, etc.)
