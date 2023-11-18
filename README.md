@@ -10,4 +10,4 @@ Hibernate: A powerful database and SQL manager for Java.
 Bootstrap: Web pages are completely responsive.
 Maven: A Java dependency manager for a better development experience.
 Other technologies:
-JSP, CSS, HTML, JavaScript, Spring WebFlow, Apache Tomcat, MySQL, etc. Also, a wide range of JavaScript components are used (BootBox, DataTable, etc.)
+JSP, CSS, HTML, JavaScript, Spring WebFlow, Apache Tomcat, MySQL, etc. Also, a wide range of JavaScript components are used (BootBox, DataTable, etc).
